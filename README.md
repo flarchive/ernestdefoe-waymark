@@ -2,13 +2,20 @@
 
 > **Read-only archive of released versions of ernestdefoe/waymark.** Not for installation: use [Packagist](https://packagist.org/packages/ernestdefoe/waymark) or the [upstream repository](https://github.com/ernestdefoe/waymark).
 
-**0** versions archived · Latest: [`1.5.0`](https://github.com/flarchive/ernestdefoe-waymark/tree/archive/v1.5.0) · License: `MIT` · Flarum: `^2.0`
+**8** versions archived · Latest: [`1.5.0`](https://github.com/flarchive/ernestdefoe-waymark/tree/archive/v1.5.0) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2026-10-03 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-waymark/tree/archive/v1.0.0) |
+| `1.0.1` | 2026-10-03 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-waymark/tree/archive/v1.0.1) |
+| `1.1.0` | 2026-10-03 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-waymark/tree/archive/v1.1.0) |
+| `1.2.0` | 2026-10-03 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-waymark/tree/archive/v1.2.0) |
+| `1.3.0` | 2026-10-05 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-waymark/tree/archive/v1.3.0) |
+| `1.3.1` | 2026-10-05 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-waymark/tree/archive/v1.3.1) |
+| `1.4.0` | 2026-10-06 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-waymark/tree/archive/v1.4.0) |
+| `1.5.0` | 2026-10-07 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-waymark/tree/archive/v1.5.0) |
 
 Catalog entry: [packages/ernestdefoe-waymark.json](https://github.com/flarchive/archive-index/blob/main/packages/ernestdefoe-waymark.json)
 
